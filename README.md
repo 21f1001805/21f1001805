@@ -1,5 +1,7 @@
 # 💫 About Me:
-Developer focused on building scalable, user-friendly applications with a strong emphasis on performance, optimization, and business impact.<br>s,ts,python,c++,java,node, express, mongodb, postgres, sqlachemy, nextjs, docker,git,github
+I am a developer focused on building scalable, user-friendly applications with a strong emphasis on performance, optimization, and real business impact. I have experience working across the full stack, creating efficient and reliable solutions that enhance user experience and drive results.
+My technical skill set includes JavaScript, TypeScript, Python, C++, and Java, along with frameworks and tools such as Node.js, Express.js, Next.js, and SQLAlchemy. I am experienced in working with databases like MongoDB, PostgreSQL, and SQL, and I use modern development tools including Docker, Git, and GitHub to ensure smooth development and deployment processes.
+I am passionate about writing clean, maintainable code, solving complex problems, and continuously learning new technologies to stay up to date in a fast-evolving tech landscape.
 
 
 ## 🌐 Socials:
