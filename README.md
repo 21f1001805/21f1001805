@@ -107,6 +107,5 @@ I am a developer focused on building scalable, user-friendly applications with a
 
 **Thank you for visiting my profile! 😊**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
